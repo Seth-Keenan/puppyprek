@@ -1,0 +1,9 @@
+
+{
+  "name": "Jet's Puppy Pre-K & Training",
+  "description": "A high-end puppy training and boarding platform featuring AI-powered training advice and seamless client management, inspired by Jet's Puppy Pre-K.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
